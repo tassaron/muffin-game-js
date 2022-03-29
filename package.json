@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/tassaron/muffin-game-js#readme",
   "dependencies": {
-    "muffin-game": "file:../muffin-game-engine",
+    "muffin-game": "^0.0.3",
     "pixi.js": "^6.3.0"
   },
   "devDependencies": {
